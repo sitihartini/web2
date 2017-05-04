@@ -92,7 +92,6 @@ include_once 'header.php';
                 </ul>
 
             </div>
-
 <?php 
 include_once 'sidebar.php';
 include_once 'footer.php';
