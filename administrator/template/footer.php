@@ -1,8 +1,3 @@
-        <div id="page-wrapper">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
-                     
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
@@ -19,7 +14,6 @@
     <script src="template/assets/js/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-   
     <script src="template/assets/js/bootstrap.min.js"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
